@@ -1,0 +1,2 @@
+CSC2042S-Assignment1-Data/WDICSV.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
